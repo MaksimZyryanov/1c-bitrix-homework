@@ -7,6 +7,7 @@
 ## Первое дз
 
 1. [задача](https://github.com/MaksimKuwsz/1c-bitrix-homework/tree/main/HW_1/Task_1)
+   (приложил с примером выполнения сортировки с подобным массивом из условия)
 2. [задача](https://github.com/MaksimKuwsz/1c-bitrix-homework/tree/main/HW_1/Task_2)
 3. [задача](https://github.com/MaksimKuwsz/1c-bitrix-homework/tree/main/HW_1/Task_3)
 4. [задача](https://github.com/MaksimKuwsz/1c-bitrix-homework/tree/main/HW_1/Task_4)
