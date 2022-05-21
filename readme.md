@@ -14,4 +14,4 @@
 3. [задача](https://github.com/MaksimKuwsz/1c-bitrix-homework/tree/main/HW_1/Task_3/Solution.php)
 4. [задача](https://github.com/MaksimKuwsz/1c-bitrix-homework/tree/main/HW_1/Task_4/Solution.php)
 
-   (приложил скриншоты с работой с бд, так как работа с бд не предусмотрена заданием)
+   (приложил [скриншоты](https://github.com/MaksimKuwsz/1c-bitrix-homework/tree/main/HW_1/Task_4/_sql) с работой с бд, так как работа с бд не предусмотрена заданием)
