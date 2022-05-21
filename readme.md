@@ -1,4 +1,4 @@
-# UniversityLab HomeWork
+# University Y_Lab HomeWork
 
 Домашняя работа для UniversityLab
 Выполнил: Зырянов Максим
